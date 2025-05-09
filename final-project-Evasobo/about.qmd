@@ -1,0 +1,59 @@
+---
+---
+title: "About Eva"
+about:
+  id: eva
+  template: trestles
+  image: "self.png"
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/your-github-username
+    - icon: image
+      text: Pinterest Inspiration
+      href: https://www.pinterest.com
+format:
+  html:
+    css: styles.css
+    toc: false
+    theme: cosmo
+page-layout: full
+---
+
+# 💕 About Me
+
+[ Hi! I’m **Eva** — a double major in **Statistical & Data Sciences** and **Quantitative Economics**, with a deep love for any kind of Matcha. 💗\
+]{style="font-size: 1.2rem; font-family: 'Comic Sans MS', cursive, sans-serif;"}
+
+------------------------------------------------------------------------
+
+## 🎓 What I Do
+
+[ I'm the **PR Manager** for the Investment Club, a **Money Mentor**, and a proud **SGA Senator**. I love creating visuals that communicate data beautifully, and I work hard to back every design with sharp, analytical thinking. ]{style="font-size: 1.05rem;"}
+
+------------------------------------------------------------------------
+
+## 🌸 Who I Am
+
+[ Every day starts with a cup of matcha 🍵 and the latest issue of <em>VOGUE</em> — because style matters, even in stats!\
+If i'm not in class, work or at a meeting, you can find me at home in the **gym**, or studying in the **library**. Whether I’m curating Pinterest boards or debugging R/ JAVA code, I am always hard at work. ]{style="font-size: 1.05rem;"}
+
+------------------------------------------------------------------------
+
+## 📚 Fun Facts
+
+<ul style="font-size: 1.05rem;">
+
+<li>💪 Gym girlie with a love for Cardio</li>
+
+<li>📊 Obsessed with turning complex data into clear dashboards</li>
+
+<li>📚 Always reading — finance blogs *and* fantasy novels or even WEBTOONS</li>
+
+<li>🎀 Find me in blue, always</li>
+
+</ul>
+
+------------------------------------------------------------------------
+
+> [For professional inquiries, feel free to reach out after graduation!]{style="font-size: 1rem; font-style: italic;"}

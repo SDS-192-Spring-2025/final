@@ -1,0 +1,31 @@
+---
+title: "Eva's Data Portfolio 💕"
+format:
+  html:
+    css: styles.css
+    theme: cosmo
+    toc: false
+page-layout: full
+---
+
+![Cute Data Graphic PREVIEW](images/Screenshot 2025-05-09 142751.png)
+
+# ✨ Welcome to My Portfolio
+
+Explore my favorite projects from the semester! Click on the links below to see what I’ve been working on:
+
+### 📂 Projects
+
+-   [💡 Project 1](scorecard_analysis.html)
+-   [📈 Project 2](WCA_analysis.html)
+-   [📊 Project 3](mapping.html)
+
+### 🧁 Learn More
+
+-   [👑 About Me](about.html)
+
+<p align="center">
+
+![](images/1.jpg) ![](images/2.jpg)
+
+</p>

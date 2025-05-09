@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eva’s Data Portfolio 💕",
+    "section": "",
+    "text": "Cute Data Graphic PREVIEW\n\n\n\n✨ Welcome to My Portfolio\nExplore my favorite projects from the semester! Click on the links below to see what I’ve been working on:\n\n📂 Projects\n\n💡 Project 1\n📈 Project 2\n📊 Project 3\n\n\n\n🧁 Learn More\n\n👑 About Me"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Eva",
+    "section": "",
+    "text": "title: “About Eva” about: id: eva template: trestles image: “self.png” links: - icon: github text: GitHub href: https://github.com/your-github-username - icon: image text: Pinterest Inspiration href: https://www.pinterest.com format: html: css: styles.css toc: false theme: cosmo page-layout: full"
+  },
+  {
+    "objectID": "about.html#what-i-do",
+    "href": "about.html#what-i-do",
+    "title": "About Eva",
+    "section": "🎓 What I Do",
+    "text": "🎓 What I Do\nI’m the PR Manager for the Investment Club, a Money Mentor, and a proud SGA Senator. I love creating visuals that communicate data beautifully, and I work hard to back every design with sharp, analytical thinking."
+  },
+  {
+    "objectID": "about.html#who-i-am",
+    "href": "about.html#who-i-am",
+    "title": "About Eva",
+    "section": "🌸 Who I Am",
+    "text": "🌸 Who I Am\nEvery day starts with a cup of matcha 🍵 and the latest issue of VOGUE — because style matters, even in stats!\nIf i’m not in class, work or at a meeting, you can find me at home in the gym, or studying in the library. Whether I’m curating Pinterest boards or debugging R/ JAVA code, I am always hard at work."
+  },
+  {
+    "objectID": "about.html#fun-facts",
+    "href": "about.html#fun-facts",
+    "title": "About Eva",
+    "section": "📚 Fun Facts",
+    "text": "📚 Fun Facts\n\n\n💪 Gym girlie with a love for Cardio\n\n\n📊 Obsessed with turning complex data into clear dashboards\n\n\n📚 Always reading — finance blogs and fantasy novels or even WEBTOONS\n\n\n🎀 Find me in blue, always\n\n\n\n\nFor professional inquiries, feel free to reach out after graduation!"
+  }
+]
